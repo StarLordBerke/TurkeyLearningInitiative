@@ -104,3 +104,5 @@ We welcome contributions from the community! If you would like to contribute to 
 ## Acknowledgments
 The TLI project would not be possible without the support of our contributors and the wider educational community. Thank you for your commitment to providing education to those in need.
 
+---
+*Geliştirici: Berke Mert Öztürk*
